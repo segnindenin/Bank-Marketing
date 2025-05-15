@@ -1,0 +1,28 @@
+📄 Description du jeu de données :
+Bank Marketing – Campagnes de marketing bancaire
+
+Ce jeu de données concerne des campagnes de marketing direct menées par une institution bancaire. 
+Ces campagnes ont été réalisées par téléphone. Il était souvent nécessaire de contacter plusieurs fois 
+un même client afin d’évaluer s’il allait (ou non) souscrire au produit proposé : un dépôt à terme bancaire.
+
+
+Travail à Faire: 
+
+1- Faire une analyse exploratoire du dataset et expliquer chaque étape afin d'avoir une compréhension claire 
+des données. 
+
+2- Expliquer la variable Class en fonction des autres variables grâce à un algorithme de machine Learning 
+( au moins 4 Modèles de Machines Learning devront être mis en compétition).
+NB : A minima, la matrice de confusion, la courbe ROC et les métriques d'évaluation doivent être affichées 
+pour chaque modèle.
+
+3- Faire clairement ressortir les variables pertinentes du modèle champion afin de permettre au responsable 
+produit d'avoir une vue claire sur les critères permettant de déterminer l'appétence au produit 
+DAT ( Dépôt à Terme) des clients.  Proposer lui une stratégie marketing qui lui permettra d'accroître ses ventes. 
+
+4- Faires un Clustering afin de trouver les individus ayant un comportement similaire. 
+
+5- Enfin faire des statistiques descriptives sur chaque cluster afin de permettre au responsable produit de 
+faire un marketing ciblé sur chaque cluster. 
+
+6 - Proposer lui des plans de campagne pour chaque cible et justifier pourquoi? 
